@@ -30,7 +30,7 @@ Get the original MPQs from the older installers. Install Diablo 2 using the prov
 
 # How to fix mouse not working
 
-- Open UI.ini with notepad ans set "Minimized" to "1"
+- Open UI.ini with notepad and set "Minimized" to "1"
 
 # How to Fix c0000005 Error
 
