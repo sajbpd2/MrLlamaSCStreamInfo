@@ -44,6 +44,13 @@ Get the original MPQs from the older installers. Install Diablo 2 using the prov
 - Install the [x86 vc_redist](https://aka.ms/vs/16/release/vc_redist.x86.exe) and check if the game is working now.
 - If the problem wasn't solved then check your anti-virus and restore the file.
 
+# How to fix failed to game data files
+
+You installed PD2 into the wrong folder, you must select your Diablo II: LoD folder in the PD2 installer.
+
+If you don't know where your Diablo II: LoD folder is then right click the Diablo II: LoD shortcut on your desktop and select "Open File location". This is the folder that you need to select inside of the PD2 installer.
+
+
 # How to fix window resizing when joining a game
 
 - Download [ddraw.ini](https://github.com/FunkyFr3sh/MrLlamaSCStreamInfo/releases/download/1/ddraw.ini) and place it into your PD2 folder (replace existing file). Start the launcher and disable Windowed mode "-W".
