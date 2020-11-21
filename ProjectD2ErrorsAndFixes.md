@@ -30,7 +30,7 @@ Get the original MPQs from the older installers. Install Diablo 2 using the prov
 
 # How to fix mouse not working
 
-- Open UI.ini with notpad ans set "Minimized" to "1"
+- Open UI.ini with notepad ans set "Minimized" to "1"
 
 # How to Fix c0000005 Error
 
@@ -113,7 +113,7 @@ Get the original MPQs from the older installers. Install Diablo 2 using the prov
 
 ## Context: You entered a wrong password multiple times
 
-Wait a few minutes and try to connect again.
+- Wait a few minutes and then try to connect again.
 
 ## Context: The game is showing the original background, not the PD2 Background
 
