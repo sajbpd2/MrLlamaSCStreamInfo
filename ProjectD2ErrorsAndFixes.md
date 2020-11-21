@@ -27,74 +27,9 @@
 
 # How to Fix c0000005 Error
 
-## Context: You press `Play` on the Launcher and you receive the error.
-
-### Possibility 1: Missing x86 2015/2017/2019 Redistributable.
-
-- Install [this](https://aka.ms/vs/16/release/vc_redist.x86.exe). Then restart your PC.
-
-### Possibility 2: Your PC just needs a full restart. Restart it.
-
-### Possibility 3: You need to update your Vanilla client to 1.14d and then restart your PC afterwards.
-
-#### Not sure what triggers this bug, but patching the Vanilla client from 1.14b to 1.14d reportedly fixes this issue for some. PC restart required to see if fix worked.
-
-### Possibility 4: Compatibility
-
-#### Sometimes Diablo 2 just isn't nice, especially if you're installing into a Diablo 2 version that is lower than 1.14.
-
-1. For `Game.exe` in the `ProjectD2` folder, go to its properties and set the compatibility mode to `Windows XP SP2` or `Windows XP SP3`.
-2. For both `Game.exe` and `PD2Launcher.exe` in the `ProjectD2` folder, go to their properties and set both of them to `Run as admininstrator`.
-
-### Possibility 5: DEP
-
-#### I don't know the technicalities behind it, but some people need to perform the "DEP" fix.
-
-1. **Go to your Start Menu and simply start typing `Control Panel` and click it.**
-2. **Click `System`.**
-3. **Click `Advanced system settings` on the left menu.**
-4. **Under the `Advanced` tab, under the `Performance` section, click `Settings`.**
-5. **Click the `Data Execution Prevention` (DEP) tab.**
-6. **Click `Turn on DEP for essential Windows programs and services only`.**
-7. **Press `Apply` and `OK`.**
-8. **Restart your PC.**
-
-### Possibility 6: Cinematics Bug
-
-#### PD2 reintroduced the old Cinematics bug where if your game client has no sound (usually through `-ns`), you crash on cinematics, including the intro cinematics.
-
-- **If you do not have sound, get sound. If you do not want sound, simply turn down the audio in-game. You can mute the main menu with `Ctrl + M`.**
-
-### Possibility 7: Bad Diablo II Install
-
-- **Try launching Vanilla (unmodded) Diablo 2. If you get the error there, do a fresh re-install. If you don't, click on Battle.net to ensure you have the latest version. Then try launching PD2 again.**
-
-### Possibility 8: Hovered Over Bottom Right of Stash
-
-- Theres a critical bug where mousing over the bottom two slots? of the bottom-right stash forces a crash. No known fix. Just keep your cursor away from bottom right of stash.
-
-### Possibility 9: Non-English Diablo 2 Install
-
-#### This crash happens randomly when interacting with certain items, skills, and monsters.
-
-- Diablo 2 must be installed in English. Any other language will cause completely random crashes with items, skills, and monsters.
-	- Link to English [Classic](https://www.blizzard.com/download/confirmation?platform=windows&locale=en_US&product=d2) and [LOD](https://www.blizzard.com/download/confirmation?platform=windows&locale=en_US&product=d2lod) installers. May need to sign in.
-- If English Diablo II, re-install.
-
-### Possibility 10: Some Other Missing Dependency
-
-#### I have yet to figure out what makes this bug. Typically, it is either some form of corruption or missing a required library that is not listed anywhere.
-
-1. **Try repairing the launcher by running the PD2 installer again and repairing.**
-2. **Try making sure your Windows is up to date with everything a computer generally needs.**
-	1. [.NET Framework 3.5](https://docs.microsoft.com/en-us/dotnet/framework/install/dotnet-35-windows-10) and [.NET Framework 4.8](https://dotnet.microsoft.com/download/dotnet-framework/net48)
-	2. [As many Redistributables as you can](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). Both x86 and x64 versions.
-	3. Make sure Windows is up-to-date.
-	4. Update your drivers, especially your audio and video card drivers.
-
 ## Context: You travel to a new Act in-game.
 
-- Almost always because of -ns. See [here](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#possibility-6-cinematics-bug).
+- Disable "-ns" in the launcher.
 
 ## Context: Hovering over item or skill descriptions.
 
@@ -104,6 +39,43 @@
 ## Context: Killed Ventar the Unholy in Baal's fourth wave.
 
 - I have yet to figure out why this happens. Other fixes have not seemed to help this issue. Usually not related to language or locale. Perhaps an issue with non-English Windows? Issue not solved, sorry.
+
+## Context: Hovered Over Bottom Right of Stash
+
+- No known fix. Just keep your cursor away from bottom right of stash.
+
+## Context: You press `Play` on the Launcher and you receive the error.
+
+### Possibility 1: Your PC just needs a full restart. Restart it.
+
+### Possibility 2: You need to update your Vanilla client to 1.14d and then restart your PC afterwards.
+
+#### Not sure what triggers this bug, but patching the Vanilla client from 1.14b to 1.14d reportedly fixes this issue for some. PC restart required to see if fix worked.
+
+### Possibility 3: Compatibility
+
+#### Sometimes Diablo 2 just isn't nice, especially if you're installing into a Diablo 2 version that is lower than 1.14.
+
+1. For `Game.exe` in the `ProjectD2` folder, go to its properties and set the compatibility mode to `Windows XP SP2` or `Windows XP SP3`.
+2. For both `Game.exe` and `PD2Launcher.exe` in the `ProjectD2` folder, go to their properties and set both of them to `Run as admininstrator`.
+
+### Possibility 4: Cinematics Bug
+
+#### PD2 reintroduced the old Cinematics bug where if your game client has no sound (usually through `-ns`), you crash on cinematics, including the intro cinematics.
+
+- **If you do not have sound, get sound. If you do not want sound, simply turn down the audio in-game. You can mute the main menu with `Ctrl + M`.**
+
+### Possibility 5: Bad Diablo II Install
+
+- **Try launching Vanilla (unmodded) Diablo 2. If you get the error there, do a fresh re-install. If you don't, click on Battle.net to ensure you have the latest version. Then try launching PD2 again.**
+
+### Possibility 6: Non-English Diablo 2 Install
+
+#### This crash happens randomly when interacting with certain items, skills, and monsters.
+
+- Diablo 2 must be installed in English. Any other language will cause completely random crashes with items, skills, and monsters.
+	- Link to English [Classic](https://www.blizzard.com/download/confirmation?platform=windows&locale=en_US&product=d2) and [LOD](https://www.blizzard.com/download/confirmation?platform=windows&locale=en_US&product=d2lod) installers. May need to sign in.
+- If English Diablo II, re-install.
 
 # How to Fix Halt Error
 
