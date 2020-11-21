@@ -7,7 +7,7 @@
 | [d2data.mpq is corrupt](#how-to-fix-d2datampq-is-corrupt-error) |
 | [c0000005](#how-to-fix-c0000005-error) |
 | [mouse not working](#how-to-fix-mouse-not-working) |
-| [launcher closing after clicking on PLAY](#how-to-fix-launcher-closing) |
+| [launcher closing after clicking on PLAY](#how-to-fix-launcher-closing-after-clicking-on-play) |
 | [Halt](#how-to-fix-halt-error) |
 | [VCRUNTIME140_1.dll](#how-to-fix-vcruntime140_1dll-error) |
 | [Silent Crash](#how-to-fix-silent-crash-error) |
