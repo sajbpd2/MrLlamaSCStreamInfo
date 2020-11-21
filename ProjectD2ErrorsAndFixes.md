@@ -7,6 +7,7 @@
 | [d2data.mpq is corrupt](#how-to-fix-d2datampq-is-corrupt-error) |
 | [c0000005](#how-to-fix-c0000005-error) |
 | [mouse not working](#how-to-fix-mouse-not-working) |
+| [failed to load ProjectDiablo.dll](#how-to-failed to load ProjectDiablo.dll) |
 | [window resizing when joining a game](#how-to-fix-window-resizing-when-joining-a-game) |
 | [launcher closing after clicking on PLAY](#how-to-fix-launcher-closing-after-clicking-on-play) |
 | [Halt](#how-to-fix-halt-error) |
@@ -37,6 +38,11 @@ Get the original MPQs from the older installers. Install Diablo 2 using the prov
 # How to fix launcher closing after clicking on PLAY
 
 - Check your security programs and make sure nothing is blocking the launcher (Avast is known to cause this issue)
+
+# How to fix failed to load ProjectDiablo.dll
+
+- Install the [x86](https://aka.ms/vs/16/release/vc_redist.x86.exe) and vc_redist and retry.
+- If the problem wasn't solved then check your anti-virus and restore the file.
 
 # How to fix window resizing when joining a game
 
