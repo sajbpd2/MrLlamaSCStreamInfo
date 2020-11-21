@@ -4,7 +4,7 @@
 
 | [****Issues****](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md) |
 | :-: |
-| [d2data.mpq is corrupt](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-d2datampq-is-corrupt-error) |
+| [d2data.mpq is corrupt](#how-to-fix-d2datampq-is-corrupt-error) |
 | [c0000005](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-c0000005-error) |
 | [Halt](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-halt-error) |
 | [VCRUNTIME140_1.dll](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-vcruntime140_1dll-error) |
