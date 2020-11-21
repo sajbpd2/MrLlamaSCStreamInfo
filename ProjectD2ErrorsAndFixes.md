@@ -41,7 +41,7 @@ Get the original MPQs from the older installers. Install Diablo 2 using the prov
 
 # How to fix failed to load ProjectDiablo.dll
 
-- Install the [x86](https://aka.ms/vs/16/release/vc_redist.x86.exe) and vc_redist and retry.
+- Install the [x86 vc_redist](https://aka.ms/vs/16/release/vc_redist.x86.exe) and check if the game is working now.
 - If the problem wasn't solved then check your anti-virus and restore the file.
 
 # How to fix window resizing when joining a game
