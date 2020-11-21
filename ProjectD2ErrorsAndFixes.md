@@ -6,6 +6,7 @@
 | :-: |
 | [d2data.mpq is corrupt](#how-to-fix-d2datampq-is-corrupt-error) |
 | [c0000005](#how-to-fix-c0000005-error) |
+| [mouse not working](#how-to-fix-mouse-not-working) |
 | [Halt](#how-to-fix-halt-error) |
 | [VCRUNTIME140_1.dll](#how-to-fix-vcruntime140_1dll-error) |
 | [Silent Crash](#how-to-fix-silent-crash-error) |
@@ -26,6 +27,10 @@ Get the original MPQs from the older installers. Install Diablo 2 using the prov
 - [Mediafire](http://www.mediafire.com/file/51r3c5s6hezsruz/DiabloII_113c_Installer.zip/file)
 - [Torrent](https://cdn.discordapp.com/attachments/157962768534863872/160784109642186753/DiabloII_113c_Installer.zip.torrent)
 - [Mega.nz](https://mega.nz/#!e9thyD6A!ExGJuZUtvRJ2c8DrxSL0ihCouh-ARbdVxODXIqVt3dc)
+
+# How to fix mouse not working
+
+- Open UI.ini with notpad ans set "Minimized" to "1"
 
 # How to Fix c0000005 Error
 
