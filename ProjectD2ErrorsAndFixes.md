@@ -2,19 +2,19 @@
 
 ##### Note: This list is not exhaustive and there are definitely unreported fixes to some of the complex issues. If none of these work, post in the [PD2 Discord #bug-chat](https://discord.gg/MgbKSmm6Mt).
 
-| [****Issues****](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md) |
+| [****Issues****](#) |
 | :-: |
 | [d2data.mpq is corrupt](#how-to-fix-d2datampq-is-corrupt-error) |
-| [c0000005](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-c0000005-error) |
-| [Halt](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-halt-error) |
-| [VCRUNTIME140_1.dll](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-vcruntime140_1dll-error) |
-| [Silent Crash](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-silent-crash-error) |
-| [Bugged Launcher](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-bugged-launcher-with-white-background-error) |
-| [Unable to Connect to Battle.net](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-unable-to-connect-to-battlenet-error) |
-| [Failed to Join Game](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-failed-to-join-game-error) |
-| [Cannot Create an Account](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-cannot-create-an-account-error) |
-| [Wrong Password](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-wrong-password-error) |
-| [CD-ROM](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-cd-rom-error) |
+| [c0000005](#how-to-fix-c0000005-error) |
+| [Halt](#how-to-fix-halt-error) |
+| [VCRUNTIME140_1.dll](#how-to-fix-vcruntime140_1dll-error) |
+| [Silent Crash](#how-to-fix-silent-crash-error) |
+| [Bugged Launcher](#how-to-fix-bugged-launcher-with-white-background-error) |
+| [Unable to Connect to Battle.net](#how-to-fix-unable-to-connect-to-battlenet-error) |
+| [Failed to Join Game](#how-to-fix-failed-to-join-game-error) |
+| [Cannot Create an Account](#how-to-fix-cannot-create-an-account-error) |
+| [Wrong Password](#how-to-fix-wrong-password-error) |
+| [CD-ROM](#how-to-fix-cd-rom-error) |
 
 # How to Fix "d2data.mpq is corrupt" Error
 
@@ -131,7 +131,7 @@ Wait a few minutes and try to connect again.
 
 #### This is a manifest of other issues.
 
-[Try the Cannot Create an Account fix](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-cannot-create-an-account-error)
+[Try the Cannot Create an Account fix](#how-to-fix-cannot-create-an-account-error)
 
 # How to Fix CD-ROM Error
 
