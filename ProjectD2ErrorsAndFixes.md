@@ -132,7 +132,11 @@
 
 # How to Fix `Unable to Connect to Battle.net` Error
 
-## Context: Main menu has the 5 characters in the background (Aka. the game is showing the original background, not the PD2 Background)
+## Context: You entered a wrong password multiple times
+
+Wait a few minutes and try to connect again.
+
+## Context: The game is showing the original background, not the PD2 Background
 
 1. Press the Windows button and R at the same time (launch `Run.exe`).
 2. Type `regedit` and press `OK`.
