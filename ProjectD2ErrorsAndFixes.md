@@ -4,7 +4,6 @@
 
 | [****Issues****](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md) |
 | :-: |
-| [Armor.bin](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-armorbin--missing-or-wrong-gateway--patch-failed-or-not-needed--missing-resolution--inventory-cut-off-error) |
 | [d2data.mpq is corrupt](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-d2datampq-is-corrupt-error) |
 | [Missing or Wrong Gateway](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-armorbin--missing-or-wrong-gateway--patch-failed-or-not-needed--missing-resolution--inventory-cut-off-error) |
 | [Patch Failed or Not Needed](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-armorbin--missing-or-wrong-gateway--patch-failed-or-not-needed--missing-resolution--inventory-cut-off-error) |
@@ -22,35 +21,6 @@
 | [Cannot Create an Account](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-cannot-create-an-account-error) |
 | [Wrong Password](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-wrong-password-error) |
 | [CD-ROM](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-cd-rom-error) |
-
-# How to Fix Armor.bin / Missing or Wrong Gateway / Patch Failed or Not Needed / Missing Resolution / Inventory Cut Off Error
-
-### The fixes here are for any error which comes from "PD2" being missing at the bottom left of the D2 main menu after you launch PD2. If your main menu only says "1.13" and not "PD2 1.13" then the two fixes here apply to you.
-
-### The reason this happens is because `ProjectDiablo.dll` fails to load. When this fails to load, Diablo 2 tries to automatically patch to 1.14d when the game loads. Since we are playing on a mod, we do not want this. Diablo 2 fails to update because its modded, which leaves the game in a corrupted state.
-### The way to determine the reason why your `ProjectDiablo.dll` fails to load is as follows:
-
-#### Check your `ProjectD2` folder inside your `Diablo II` folder. If `ProjectDiablo.dll` is there, then it's failing to load. If `ProjectDiablo.dll` is NOT there, that means your anti-virus is quarantining it. So far, Windows Defender, McAfee, and Bitdefender have also been known to quarantine the file.
-#### If the file is there, you are likely missing the redistributables.
-#### If your game worked previously but doesn't now and the file is missing, Windows Defender is catching something new they added which flags more than just `ProjectDiablo.dll` it seems.
-
-## If `ProjectDiablo.dll` is there:
-
-1. **You are missing the [x86 Redistributable](https://aka.ms/vs/16/release/vc_redist.x86.exe) needed. Install the Redistributable and restart your PC.**
-2. **Try installing outside of the Program Files folder or running the launcher in Administrator.**
-
-## If `ProjectDiablo.dll` is *NOT* there:
-
-1. **If the game worked before, PD2 team released a patch that Windows Defender now flags. Disable Windows Defender real-time scanning.**
-	1. Go to Start Menu > Settings > Update & Security > Windows Security.
-	2. Click on Virus & threat protection.
-	3. Under 'Protection history', find `ProjectDiablo.dll` and restore it and allow it.
-		- You will have to do this every time ProjectD2 updates most likely.
-	4. The BEST fix is to add your Diablo 2 folder to the Exclusions folder for Windows Defender after performing Step 3. This will ensure you do not have to do this fix every time PD2 updates.
-2. **If the game working before doesn't apply to you, start with Step 1. anyway.**
-3. **Check your own anti-virus for quarantines. Make sure you restore the `ProjectDiablo.dll` file similarly to how Step 1. describes.**
-	- For McAfee, the only way is to disable real-time scanning. You can do this by right-clicking the McAfee icon in your Windows taskbar, press the top option to open the app, click `PC Security` or whatever at the top, click `Real-time scanning` or whatever on the left, then click `Turn off` on the right to disable it. You will probably need to keep McAfee disabled while playing PD2. Enjoy the overzealous anti-virus.
-4. **You could just disable your anti-virus outright (real-time protection). This does not always work though which is why Step 3. is recommended.**
 
 # How to Fix "d2data.mpq is corrupt" Error
 
