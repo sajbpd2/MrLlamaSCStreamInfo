@@ -7,7 +7,7 @@
 | [d2data.mpq is corrupt](#how-to-fix-d2datampq-is-corrupt-error) |
 | [c0000005](#how-to-fix-c0000005-error) |
 | [mouse not working](#how-to-fix-mouse-not-working) |
-| [failed to load ProjectDiablo.dll](#how-to-failed to load ProjectDiablo.dll) |
+| [failed to load ProjectDiablo.dll](#how-to-fix-failed-to-load-projectdiablodll) |
 | [window resizing when joining a game](#how-to-fix-window-resizing-when-joining-a-game) |
 | [launcher closing after clicking on PLAY](#how-to-fix-launcher-closing-after-clicking-on-play) |
 | [Halt](#how-to-fix-halt-error) |
