@@ -15,7 +15,6 @@
 | [VCRUNTIME140_1.dll](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-vcruntime140_1dll-error) |
 | [Play on Launcher Does Nothing](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-play-on-launcher-does-nothing-error) |
 | [Silent Crash](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-silent-crash-error) |
-| [Direct3D Error](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-a-critical-error-has-occured-while-initializing-direct3d-error) |
 | [Bugged Launcher](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-bugged-launcher-with-white-background-error) |
 | [Unable to Connect to Battle.net](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-unable-to-connect-to-battlenet-error) |
 | [Failed to Join Game](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-failed-to-join-game-error) |
@@ -172,18 +171,6 @@
 	- Link to English [Classic](https://www.blizzard.com/download/confirmation?platform=windows&locale=en_US&product=d2) and [LOD](https://www.blizzard.com/download/confirmation?platform=windows&locale=en_US&product=d2lod) installers. May need to sign in.
 - If English Diablo II, re-install.
 - Hovering over the bottom right of the stash is a known crash bug. No fix. Avoid moving your cursor to the bottom right of the stash.
-
-# How to Fix `A critical error has occured while initializing Direct3D` Error
-
-#### This error is a generic error when Diablo 2 tries to load in fullscreen which does not work for many people without special settings.
-
-- In the `Options` menu on the Launcher, enable `Windowed Mode (-w)`.
-- If you want fullscreen, disable `Windowed Mode (-w)` and follow these steps:
-	1. Go to your `ProjectD2` folder and open `ddraw.ini`.
-	2. Set `width` and `height` at the top to your desktop resolution.
-	3. Set `fullscreen` to `false`.
-	4. Set `windowed` to `true`.
-	5. If applicable to you, set `maintas` to `false` to avoid the black bars.
 
 # How to Fix Bugged Launcher With White Background Error
 
