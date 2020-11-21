@@ -7,6 +7,7 @@
 | [d2data.mpq is corrupt](#how-to-fix-d2datampq-is-corrupt-error) |
 | [c0000005](#how-to-fix-c0000005-error) |
 | [mouse not working](#how-to-fix-mouse-not-working) |
+| [launcher closing after clicking on PLAY](#how-to-fix-launcher-closing) |
 | [Halt](#how-to-fix-halt-error) |
 | [VCRUNTIME140_1.dll](#how-to-fix-vcruntime140_1dll-error) |
 | [Silent Crash](#how-to-fix-silent-crash-error) |
@@ -31,6 +32,10 @@ Get the original MPQs from the older installers. Install Diablo 2 using the prov
 # How to fix mouse not working
 
 - Open UI.ini with notepad and set "Minimized" to "1"
+
+# How to fix launcher closing after clicking on PLAY
+
+- Check your security programs and make sure nothing is blocking the launcher (Avast is known to cause this issue)
 
 # How to Fix c0000005 Error
 
