@@ -12,7 +12,6 @@
 | [c0000005](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-c0000005-error) |
 | [Halt](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-halt-error) |
 | [VCRUNTIME140_1.dll](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-vcruntime140_1dll-error) |
-| [Play on Launcher Does Nothing](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-play-on-launcher-does-nothing-error) |
 | [Silent Crash](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-silent-crash-error) |
 | [Bugged Launcher](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-bugged-launcher-with-white-background-error) |
 | [Unable to Connect to Battle.net](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-unable-to-connect-to-battlenet-error) |
@@ -122,16 +121,6 @@
 # How to Fix `VCRUNTIME140_1.DLL` Error
 
 - You are missing the Redistributables needed. You need both [x86](https://aka.ms/vs/16/release/vc_redist.x86.exe) and [x64](https://aka.ms/vs/16/release/vc_redist.x64.exe). Run them.
-
-# How to Fix `Play` on Launcher Does Nothing Error
-
-### Possibility 1: The launcher is checking the wrong spot for the game and so it fails to launch.
-1. Press the Windows button and R at the same time (launch `Run.exe`).
-2. Type regedit and press `OK`.
-3. Navigate to `HKEY_CURRENT_USER\SOFTWARE\Blizzard Entertainment\Diablo II`.
-4. Double cick on the key `InstallPath`.
-5. Set the `Value data` to your D2 folder (not your PD2 folder).
-	- If your path ends in `...\ProjectD2`, delete that part.
 
 # How to Fix Silent Crash Error
 
