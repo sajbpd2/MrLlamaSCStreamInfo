@@ -155,9 +155,7 @@
 
 #### This is a manifest of other issues.
 
-### Possibility 1: [Try the Armor.bin fix](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-armorbin--missing-or-wrong-gateway--patch-failed-or-not-needed--missing-resolution--inventory-cut-off-error)
-
-### Possibility 2: [Try the Cannot Create an Account fix](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-cannot-create-an-account-error)
+[Try the Cannot Create an Account fix](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-cannot-create-an-account-error)
 
 # How to Fix CD-ROM Error
 
