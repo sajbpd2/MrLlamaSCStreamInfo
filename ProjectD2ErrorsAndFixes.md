@@ -8,7 +8,7 @@
 | [c0000005](#how-to-fix-c0000005-error) |
 | [mouse not working](#how-to-fix-mouse-not-working) |
 | [failed to load ProjectDiablo.dll](#how-to-fix-failed-to-load-projectdiablodll) |
-| [failed to load game data files](#how-to-fix-failed-to-game-data-files) |
+| [failed to load game data files](#how-to-fix-failed-to-load-game-data-files) |
 | [window resizing when joining a game](#how-to-fix-window-resizing-when-joining-a-game) |
 | [launcher closing after clicking on PLAY](#how-to-fix-launcher-closing-after-clicking-on-play) |
 | [Halt](#how-to-fix-halt-error) |
@@ -45,7 +45,7 @@ Get the original MPQs from the older installers. Install Diablo 2 using the prov
 - Install the [x86 vc_redist](https://aka.ms/vs/16/release/vc_redist.x86.exe) and check if the game is working now.
 - If the problem wasn't solved then check your anti-virus and restore the file.
 
-# How to fix failed to game data files
+# How to fix failed to load game data files
 
 You installed PD2 into the wrong folder, you must select your Diablo II: LoD folder in the PD2 installer.
 
