@@ -16,7 +16,6 @@
 | [Bugged Launcher](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-bugged-launcher-with-white-background-error) |
 | [Unable to Connect to Battle.net](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-unable-to-connect-to-battlenet-error) |
 | [Failed to Join Game](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-failed-to-join-game-error) |
-| [C000000D (Error on Close)](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-c000000d-glide3xdll--invalid-parameter-error) |
 | [Cannot Create an Account](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-cannot-create-an-account-error) |
 | [Wrong Password](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-wrong-password-error) |
 | [CD-ROM](https://github.com/Warren1001/MrLlamaSCStreamInfo/blob/master/ProjectD2ErrorsAndFixes.md#how-to-fix-cd-rom-error) |
@@ -149,20 +148,6 @@
 # How to Fix `Failed to Join Game` Error
 
 - The game server you were in crashed. The realm server still thinks your character is in-game because the game server did not report you leaving the game since it crashed. Therefore, the realm doesn't let your character into another game. The only fix is to wait for the game server to restart and let your character out of the void. Patience. It could be 5 minutes or 24 hours.
-
-# How to Fix C000000D (glide3x.dll & Invalid Parameter) Error
-
-#### This error happens upon closing the game.
-
-1. Download [IndirectSound](https://www.indirectsound.com/downloads/IndirectSound_0_20.zip).
-2. Copy `dsound.dll` and `dsound.ini` to your `ProjectD2` folder.
-3. Ensure you have the [DX9 Runtimes](https://www.microsoft.com/en-us/download/confirmation.aspx?id=35). Install it.
-4. In your `ProjectD2` folder, set `Game.exe` and `Diablo II.exe` to run in Windows 7 Compatibility mode.
-5. Restart PC.
-
-- Optional feature: Edit `dsound.ini` and change `eax2` to `true`. This will enable the ability to toggle `3D Sound and Environmental Effects` in the D2 sound menu.
-
-#### Fix found by several [Reddit users](https://www.reddit.com/r/ProjectDiablo2/comments/js8neb/glide3xdll_not_working/).
 
 # How to Fix `Cannot Create an Account` Error
 
