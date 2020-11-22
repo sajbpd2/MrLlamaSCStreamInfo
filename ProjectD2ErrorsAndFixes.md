@@ -40,7 +40,7 @@ Get the original MPQs from the older installers. Install Diablo 2 using the prov
 
 # How to fix failed to load ProjectDiablo.dll
 
-- You might be missing the x86 Redistributable. [Click here to download x86 Redistributable](https://aka.ms/vs/16/release/vc_redist.x86.exe), install it and check if the game is working now.
+- You might be missing the x86 Redistributable. [Click here to download the x86 Redistributable](https://aka.ms/vs/16/release/vc_redist.x86.exe), install it and check if the game is working now.
 - If the problem wasn't solved then check your anti-virus and restore the file.
 
 # How to fix failed to load game data files
@@ -52,7 +52,7 @@ If you don't know where your Diablo II: LoD folder is then right click the Diabl
 
 # How to fix window resizing when joining a game
 
-- Download [ddraw.ini](https://github.com/FunkyFr3sh/MrLlamaSCStreamInfo/releases/download/1/ddraw.ini) and place it into your PD2 folder (replace existing file). Start the launcher and disable Windowed mode "-W".
+- [Download ddraw.ini](https://github.com/FunkyFr3sh/MrLlamaSCStreamInfo/releases/download/1/ddraw.ini) and place it into your PD2 folder (replace existing file). Start the launcher and disable Windowed mode "-W".
 
 # How to Fix c0000005 Error
 
