@@ -40,7 +40,7 @@ Get the original MPQs from the older installers. Install Diablo 2 using the prov
 
 # How to fix failed to load ProjectDiablo.dll
 
-- Install the [x86 vc_redist](https://aka.ms/vs/16/release/vc_redist.x86.exe) and check if the game is working now.
+- You might be missing the x86 Redistributable. [Click here to download x86 Redistributable](https://aka.ms/vs/16/release/vc_redist.x86.exe), install it and check if the game is working now.
 - If the problem wasn't solved then check your anti-virus and restore the file.
 
 # How to fix failed to load game data files
@@ -116,7 +116,9 @@ If you don't know where your Diablo II: LoD folder is then right click the Diabl
 
 # How to Fix `VCRUNTIME140_1.DLL` Error
 
-- You are missing the Redistributables needed. You need both [x86](https://aka.ms/vs/16/release/vc_redist.x86.exe) and [x64](https://aka.ms/vs/16/release/vc_redist.x64.exe). Run them.
+- You are missing the Redistributables needed. Download both of them below and run them.
+[Download the x86 Redistributable here](https://aka.ms/vs/16/release/vc_redist.x86.exe)
+[Download the x64 Redistributable here](https://aka.ms/vs/16/release/vc_redist.x64.exe)
 
 # How to Fix Silent Crash Error
 
