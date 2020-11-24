@@ -11,7 +11,7 @@
 | [window resizing when joining a game](#how-to-fix-window-resizing-when-joining-a-game) |
 | [launcher closing after clicking on PLAY](#how-to-fix-launcher-closing-after-clicking-on-play) |
 | [Halt](#how-to-fix-halt-error) |
-| [VCRUNTIME140_1.dll and MSVCP140.DLL](#how-to-fix-vcruntime140_1dll-error) |
+| [VCRUNTIME140_1.dll and MSVCP140.DLL](#how-to-fix-vcruntime140_1dll-and-msvcp140dll-error) |
 | [Silent Crash](#how-to-fix-silent-crash-error) |
 | [Bugged Launcher](#how-to-fix-bugged-launcher-with-white-background-error) |
 | [Unable to Connect to Battle.net](#how-to-fix-unable-to-connect-to-battlenet-error) |
