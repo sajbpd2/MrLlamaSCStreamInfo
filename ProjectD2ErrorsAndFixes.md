@@ -11,7 +11,7 @@
 | [window resizing when joining a game](#how-to-fix-window-resizing-when-joining-a-game) |
 | [launcher closing after clicking on PLAY](#how-to-fix-launcher-closing-after-clicking-on-play) |
 | [Halt](#how-to-fix-halt-error) |
-| [VCRUNTIME140_1.dll](#how-to-fix-vcruntime140_1dll-error) |
+| [VCRUNTIME140_1.dll and MSVCP140.DLL](#how-to-fix-vcruntime140_1dll-error) |
 | [Silent Crash](#how-to-fix-silent-crash-error) |
 | [Bugged Launcher](#how-to-fix-bugged-launcher-with-white-background-error) |
 | [Unable to Connect to Battle.net](#how-to-fix-unable-to-connect-to-battlenet-error) |
@@ -119,7 +119,7 @@ If you don't know where your Diablo II: LoD folder is then right click the Diabl
 - If creating a new character still gives you a Halt error, then you likely have a bad install.
 	- Be sure your game is a completely fresh install. You cannot copy and paste. You cannot re-use files from a previously modded install. Install Diablo II and then LOD and then PD2 all into the same folder.
 
-# How to Fix `VCRUNTIME140_1.DLL` Error
+# How to Fix `VCRUNTIME140_1.DLL` and `MSVCP140.DLL` Error
 
 - You are missing the Redistributables needed. Download both of them below and run them.
 - [Download the x86 Redistributable here](https://aka.ms/vs/16/release/vc_redist.x86.exe)
