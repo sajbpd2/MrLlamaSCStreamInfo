@@ -43,6 +43,10 @@ Get the original MPQs from the older installers. Install Diablo 2 using the prov
 - You might be missing the x86 Redistributable. [Click here to download the x86 Redistributable](https://aka.ms/vs/16/release/vc_redist.x86.exe), install it and check if the game is working now.
 - If the problem wasn't solved then check your anti-virus and restore the file.
 
+# How to fix the aspect ratio on ultrawide monitors
+
+- Open ddraw.ini inside of your PD2 folder and set "maintas=true"
+
 # How to fix failed to load game data files
 
 You installed PD2 into the wrong folder, you must select your Diablo II: LoD folder in the PD2 installer.
