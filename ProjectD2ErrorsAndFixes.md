@@ -141,6 +141,8 @@ If you don't know where your Diablo II: LoD folder is then right click the Diabl
 
 - Run the Launcher as Administrator.
 
+Note: Do not run the launcher multiple times, you can only have one instance of it running at a time.
+
 # How to Fix `Unable to Connect to Battle.net` Error
 
 ## Context: You entered a wrong password multiple times
