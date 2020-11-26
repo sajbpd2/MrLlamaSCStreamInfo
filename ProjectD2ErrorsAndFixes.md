@@ -59,6 +59,10 @@ If you don't know where your Diablo II: LoD folder is then right click the Diabl
 
 - [Download ddraw.ini](https://github.com/FunkyFr3sh/MrLlamaSCStreamInfo/releases/download/1/ddraw.ini) and place it into your PD2 folder (replace existing file). Start the launcher and disable Windowed mode "-W".
 
+# How to fix can't gain experience
+
+- You must create a ladder character.
+
 # How to Fix c0000005 Error
 
 ## Context: You travel to a new Act in-game.
