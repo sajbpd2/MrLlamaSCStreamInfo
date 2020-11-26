@@ -3,7 +3,7 @@
 | [****Issues****](#) |
 | :-: |
 | [d2data.mpq is corrupt](#how-to-fix-d2datampq-is-corrupt-error) |
-| [c0000005](#how-to-fix-c0000005-error) |
+| [UNHANDLED EXECPTION c0000005](#how-to-fix-c0000005-error) |
 | [mouse not working](#how-to-fix-mouse-not-working) |
 | [failed to load ProjectDiablo.dll](#how-to-fix-failed-to-load-projectdiablodll) |
 | [ultrawide monitor fix](#how-to-fix-the-aspect-ratio-on-ultrawide-monitors) |
