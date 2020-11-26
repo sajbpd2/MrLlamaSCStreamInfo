@@ -9,6 +9,7 @@
 | [ultrawide monitor fix](#how-to-fix-the-aspect-ratio-on-ultrawide-monitors) |
 | [failed to load game data files](#how-to-fix-failed-to-load-game-data-files) |
 | [window resizing when joining a game](#how-to-fix-window-resizing-when-joining-a-game) |
+| [can't gain experience](#how-to-fix-cant-gain-experience) |
 | [launcher closing after clicking on PLAY](#how-to-fix-launcher-closing-after-clicking-on-play) |
 | [Halt](#how-to-fix-halt-error) |
 | [VCRUNTIME140_1.dll / MSVCP140.DLL](#how-to-fix-vcruntime140_1dll-and-msvcp140dll-error) |
