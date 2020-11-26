@@ -60,6 +60,8 @@ If you don't know where your Diablo II: LoD folder is then right click the Diabl
 
 - [Download ddraw.ini](https://github.com/FunkyFr3sh/MrLlamaSCStreamInfo/releases/download/1/ddraw.ini) and place it into your PD2 folder (replace existing file). Start the launcher and disable Windowed mode "-W".
 
+Note: You can resize your window now by hovering over the window border and drag it. Use Ctrl+Tab or RightAlt+RightCtrl to unlock your cursor from the window.
+
 # How to fix can't gain experience
 
 - You must create a ladder character.
