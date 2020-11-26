@@ -126,8 +126,7 @@ If you don't know where your Diablo II: LoD folder is then right click the Diabl
 
 # How to Fix `VCRUNTIME140_1.DLL` and `MSVCP140.DLL` Error
 
-- You are missing the Redistributables needed. Download both of them below and run them.
-- [Download the x64 Redistributable here](https://aka.ms/vs/16/release/vc_redist.x64.exe)
+- You are missing the Redistributable needed. [Download the x64 Redistributable here](https://aka.ms/vs/16/release/vc_redist.x64.exe) and install it.
 
 # How to Fix Silent Crash Error
 
