@@ -60,7 +60,7 @@ If you don't know where your Diablo II: LoD folder is then right click the Diabl
 
 - [Download ddraw.ini](https://github.com/FunkyFr3sh/MrLlamaSCStreamInfo/releases/download/1/ddraw.ini) and place it into your PD2 folder (replace existing file). Start the launcher and disable Windowed mode "-W".
 
-Note: You can resize your window now by hovering over the window border and drag it. Use Ctrl+Tab or RightAlt+RightCtrl to unlock your cursor from the window.
+Note: You can resize your window now by hovering over the window border and drag it. Use `Ctrl+Tab` or `RightAlt+RightCtrl` to unlock your cursor from the window.
 
 # How to fix can't gain experience
 
@@ -122,7 +122,7 @@ Note: You can resize your window now by hovering over the window border and drag
 
 ## Context: Game doesn't start (line #378 / error ****5698)
 
-- You must have the Lord of Destruction installed. If you're sure you have LoD installed then please ask for help on discord and mention `halt #378`.
+- You must have the Lord of Destruction expansion installed. If you're sure you have LoD installed then please ask for help on discord and mention `halt #378`.
 
 ## Context: Character creates or joins a game.
 
