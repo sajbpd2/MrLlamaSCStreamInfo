@@ -120,6 +120,10 @@ Note: You can resize your window now by hovering over the window border and drag
 
 # How to Fix Halt Error
 
+## Context: Game doesn't start (line #378 / error ****5698)
+
+- You must have the Lord of Destruction installed. If you're sure you have LoD installed then please ask for help on discord and mention `halt #378`.
+
 ## Context: Character creates or joins a game.
 
 - If you are able to create a new character and join a game but cannot join a game with an existing character because your game crashes with a Halt error, your character may have been corrupted somehow. This is not proven, waiting may simply fix it. I would be worried though, especially if it's online.
