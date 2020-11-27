@@ -122,7 +122,7 @@ Note: You can resize your window now by hovering over the window border and drag
 
 ## Context: Game doesn't start (line #378 / error ****5698)
 
-- You must have the Lord of Destruction expansion installed. If you're sure you have LoD installed then please ask for help on discord and mention `halt #378`.
+- You must install the Lord of Destruction expansion. If you're sure you have LoD installed then please ask for help on discord and mention `halt #378`.
 
 ## Context: Character creates or joins a game.
 
