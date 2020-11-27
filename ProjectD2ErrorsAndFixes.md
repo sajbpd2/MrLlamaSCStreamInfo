@@ -51,9 +51,9 @@ Get the original MPQs from the older installers. Install Diablo 2 using the prov
 
 # How to fix failed to load game data files
 
-You installed PD2 into the wrong folder, you must select your Diablo II: LoD folder in the PD2 installer.
+- You installed PD2 into the wrong folder, you must select your Diablo II: LoD folder in the PD2 installer.
 
-If you don't know where your Diablo II: LoD folder is then right click the Diablo II: LoD shortcut on your desktop and select "Open File location". This is the folder that you need to select inside of the PD2 installer.
+Note: If you don't know where your Diablo II: LoD folder is then right click the Diablo II: LoD shortcut on your desktop and select "Open File location". This is the folder that you need to select inside of the PD2 installer.
 
 
 # How to fix window resizing when joining a game
