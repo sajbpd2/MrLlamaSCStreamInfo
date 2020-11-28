@@ -59,7 +59,7 @@ Note: If you don't know where your Diablo II: LoD folder is then right click the
 
 # How to fix window resizing when joining a game
 
-- [Download ddraw.ini](https://github.com/FunkyFr3sh/MrLlamaSCStreamInfo/releases/download/1/ddraw.ini) and place it into your PD2 folder (replace existing file). Start the launcher and disable Windowed mode "-W".
+- [Download ddraw.ini](https://github.com/FunkyFr3sh/MrLlamaSCStreamInfo/releases/download/1/ddraw.ini) and place it into your PD2 folder (replace existing file). Start the launcher and disable `Windowed Mode (-W)`.
 
 Note: You can resize your window now by hovering over the window border and drag it. Use `Ctrl+Tab` or `RightAlt+RightCtrl` to unlock your cursor from the window.
 
@@ -127,7 +127,7 @@ Note: You can resize your window now by hovering over the window border and drag
 
 ## Context: Crash in main menu (line #677 / error ****8145)
 
-- Enable the ddraw windowed mode, see [window resizing when joining a game](#how-to-fix-window-resizing-when-joining-a-game)
+- Disable `Windowed Mode (-W)` in the launcher and play in fullscreen or alternatively you can also use the ddraw windowed mode instead. To enable the ddraw windowed mode check: [window resizing when joining a game](#how-to-fix-window-resizing-when-joining-a-game) 
 
 ## Context: Character creates or joins a game.
 
