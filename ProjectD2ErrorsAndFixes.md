@@ -22,6 +22,8 @@
 | [Wrong Password](#how-to-fix-wrong-password-error) |
 | [CD-ROM](#how-to-fix-cd-rom-error) |
 
+&nbsp;
+
 # How to Fix "d2data.mpq is corrupt" Error
 
 Open your ProjectD2 folder and browse to the MPQFixer folder. Run `FIX_MPQS_RUN_AS_ADMIN.bat` as admin and now try to start the game again. If it still doesn't work, try this:
@@ -33,22 +35,32 @@ Get the original MPQs from the older installers. Install Diablo 2 using the prov
 - [Torrent](https://cdn.discordapp.com/attachments/157962768534863872/160784109642186753/DiabloII_113c_Installer.zip.torrent)
 - [Mega.nz](https://mega.nz/#!e9thyD6A!ExGJuZUtvRJ2c8DrxSL0ihCouh-ARbdVxODXIqVt3dc)
 
+&nbsp;
+
 # How to Fix the bug where your mouse isn't working in the main menu
 
 - Open UI.ini with notepad and set `Minimized=1`
 
+&nbsp;
+
 # How to Fix launcher closing after clicking on PLAY
 
 - Check your security programs and make sure nothing is blocking the launcher (Avast is known to cause this issue)
+
+&nbsp;
 
 # How to Fix `Failed to load ProjectDiablo.dll` Error
 
 - You might be missing the x86 Redistributable. [Click here to download the x86 Redistributable](https://aka.ms/vs/16/release/vc_redist.x86.exe), install it and check if the game is working now.
 - If the problem wasn't solved then check your anti-virus and restore the file.
 
+&nbsp;
+
 # How to Fix the aspect ratio on ultrawide monitors
 
 - Open `ddraw.ini` inside of your ProjectD2 folder and set `maintas=true`
+
+&nbsp;
 
 # How to Fix `Failed to load game data files` Error
 
@@ -56,6 +68,7 @@ Get the original MPQs from the older installers. Install Diablo 2 using the prov
 
 Note: If you don't know where your Diablo II: LoD folder is then right click the Diablo II: LoD shortcut on your desktop and select `Open File location`. This is the folder that you need to select inside of the PD2 installer.
 
+&nbsp;
 
 # How to Fix window resizing when joining a game
 
@@ -63,9 +76,13 @@ Note: If you don't know where your Diablo II: LoD folder is then right click the
 
 Note: You can resize your window now by hovering over the window border and drag it. Use `Ctrl+Tab` or `RightAlt+RightCtrl` to unlock your cursor from the window.
 
+&nbsp;
+
 # How to Fix the bug where you can't gain experience
 
 - You must create a ladder character.
+
+&nbsp;
 
 # How to Fix `UNHANDLED EXECPTION c0000005` Error
 
@@ -119,6 +136,8 @@ Note: You can resize your window now by hovering over the window border and drag
 	- Link to English [Classic](https://www.blizzard.com/download/confirmation?platform=windows&locale=en_US&product=d2) and [LOD](https://www.blizzard.com/download/confirmation?platform=windows&locale=en_US&product=d2lod) installers. May need to sign in.
 - If English Diablo II, re-install.
 
+&nbsp;
+
 # How to Fix Halt Error
 
 ## Context: Game doesn't start (line #378 / error ****5698)
@@ -135,13 +154,19 @@ Note: You can resize your window now by hovering over the window border and drag
 - If creating a new character still gives you a Halt error, then you likely have a bad install.
 	- Be sure your game is a completely fresh install. You cannot copy and paste. You cannot re-use files from a previously modded install. Install Diablo II and then LOD and then PD2 all into the same folder.
 
+&nbsp;
+
 # How to Fix `VCRUNTIME140_1.DLL` and `MSVCP140.DLL` Error
 
 - You are missing the Redistributable needed. [Click here to download the x64 Redistributable](https://aka.ms/vs/16/release/vc_redist.x64.exe) and then install it.
 
+&nbsp;
+
 # How to Fix `The Application was unable to start correctly (0xc000007b)` Error
 
 - You might be missing the Redistributable needed. [Click here to download the x64 Redistributable](https://aka.ms/vs/16/release/vc_redist.x64.exe) and then install it. If it was already installed then select Repair.
+
+&nbsp;
 
 # How to Fix Silent Crash Error
 
@@ -152,11 +177,15 @@ Note: You can resize your window now by hovering over the window border and drag
 - If English Diablo II, re-install.
 - Hovering over the bottom right of the stash is a known crash bug. No fix. Avoid moving your cursor to the bottom right of the stash.
 
+&nbsp;
+
 # How to Fix Bugged Launcher With White Background Error
 
 - Run the Launcher as Administrator.
 
 Note: Do not run the launcher multiple times, you can only have one instance of it running at a time.
+
+&nbsp;
 
 # How to Fix `Unable to Connect to Battle.net` Error
 
@@ -173,9 +202,13 @@ Note: Do not run the launcher multiple times, you can only have one instance of 
 5. Set the `Value data` to your D2 folder (not your PD2 folder).
 	- If your path ends in `...\ProjectD2`, delete that part.
 
+&nbsp;
+
 # How to Fix `Failed to Join Game` Error
 
 - The game server you were in crashed. The realm server still thinks your character is in-game because the game server did not report you leaving the game since it crashed. Therefore, the realm doesn't let your character into another game. The only fix is to wait for the game server to restart and let your character out of the void. Patience. It could be 5 minutes or 24 hours.
+
+&nbsp;
 
 # How to Fix `Cannot Create an Account` Error
 
@@ -183,11 +216,15 @@ Note: Do not run the launcher multiple times, you can only have one instance of 
 
 - This is because you cannot use the D2 client to make an account. You need to [make an account on the website](https://www.projectdiablo2.com/authentication/login). The Game Account you provide is your in-game account name and password. If you aren't sure if you are typing it correctly, [check here](https://www.projectdiablo2.com/pd2accountmanagement). This will tell you your account but not your password. If you lost your password, as of now you are out of luck. Simply make a new account until they implement password resetting.
 
+&nbsp;
+
 # How to Fix `Wrong Password` Error
 
 #### This is a manifest of other issues.
 
 [Try the Cannot Create an Account fix](#how-to-fix-cannot-create-an-account-error)
+
+&nbsp;
 
 # How to Fix CD-ROM Error
 
