@@ -7,7 +7,7 @@
 | [mouse not working](#how-to-fix-the-bug-where-your-mouse-isnt-working-in-the-main-menu) |
 | [failed to load ProjectDiablo.dll](#how-to-fix-failed-to-load-projectdiablodll-error) |
 | [ultrawide monitor fix](#how-to-fix-the-aspect-ratio-on-ultrawide-monitors) |
-| [failed to load game data files](#how-to-fix-failed-to-load-game-data-files) |
+| [failed to load game data files](#how-to-fix-failed-to-load-game-data-files-error) |
 | [window resizing when joining a game](#how-to-fix-window-resizing-when-joining-a-game) |
 | [can't gain experience](#how-to-fix-cant-gain-experience) |
 | [launcher closing after clicking on PLAY](#how-to-fix-launcher-closing-after-clicking-on-play) |
