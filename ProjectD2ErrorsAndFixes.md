@@ -3,7 +3,7 @@
 | [****Issues****](#) |
 | :-: |
 | [d2data.mpq is corrupt](#how-to-fix-d2datampq-is-corrupt-error) |
-| [UNHANDLED EXECPTION c0000005](#how-to-fix-unhandled-execption-c0000005-error) |
+| [UNHANDLED EXCEPTION c0000005](#how-to-fix-unhandled-exception-c0000005-error) |
 | [mouse not working](#how-to-fix-the-bug-where-your-mouse-isnt-working-in-the-main-menu) |
 | [failed to load ProjectDiablo.dll](#how-to-fix-failed-to-load-projectdiablodll-error) |
 | [ultrawide monitor fix](#how-to-fix-the-aspect-ratio-on-ultrawide-monitors) |
@@ -84,7 +84,7 @@ Note: You can resize your window now by hovering over the window border and drag
 
 &nbsp;
 
-# How to Fix `UNHANDLED EXECPTION c0000005` Error
+# How to Fix `UNHANDLED EXCEPTION c0000005` Error
 
 ## Context: You travel to a new Act in-game.
 
