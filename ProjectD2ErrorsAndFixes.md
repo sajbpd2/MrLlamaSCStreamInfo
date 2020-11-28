@@ -24,7 +24,7 @@
 
 # How to Fix "d2data.mpq is corrupt" Error
 
-Open your ProjectD2 folder and browse to the MPQFixer folder. Run "FIX_MPQS_RUN_AS_ADMIN.bat" as admin and now try to start the game again. If it still doesn't work, try this:
+Open your ProjectD2 folder and browse to the MPQFixer folder. Run `FIX_MPQS_RUN_AS_ADMIN.bat` as admin and now try to start the game again. If it still doesn't work, try this:
 
 Get the original MPQs from the older installers. Install Diablo 2 using the provided legacy installer links and install PD2 into the new install.
 - [Google Drive](https://drive.google.com/file/d/0BwtmRlAuN2x8X2FoWmhoR2pWQ2s/view)
@@ -33,41 +33,41 @@ Get the original MPQs from the older installers. Install Diablo 2 using the prov
 - [Torrent](https://cdn.discordapp.com/attachments/157962768534863872/160784109642186753/DiabloII_113c_Installer.zip.torrent)
 - [Mega.nz](https://mega.nz/#!e9thyD6A!ExGJuZUtvRJ2c8DrxSL0ihCouh-ARbdVxODXIqVt3dc)
 
-# How to fix mouse not working
+# How to Fix the bug where your mouse isn't working in the main menu
 
-- Open UI.ini with notepad and set "Minimized" to "1"
+- Open UI.ini with notepad and set `Minimized=1`
 
-# How to fix launcher closing after clicking on PLAY
+# How to Fix launcher closing after clicking on PLAY
 
 - Check your security programs and make sure nothing is blocking the launcher (Avast is known to cause this issue)
 
-# How to fix failed to load ProjectDiablo.dll
+# How to Fix `Failed to load ProjectDiablo.dll` Error
 
 - You might be missing the x86 Redistributable. [Click here to download the x86 Redistributable](https://aka.ms/vs/16/release/vc_redist.x86.exe), install it and check if the game is working now.
 - If the problem wasn't solved then check your anti-virus and restore the file.
 
-# How to fix the aspect ratio on ultrawide monitors
+# How to Fix the aspect ratio on ultrawide monitors
 
-- Open ddraw.ini inside of your PD2 folder and set "maintas=true"
+- Open `ddraw.ini` inside of your ProjectD2 folder and set `maintas=true`
 
-# How to fix failed to load game data files
+# How to Fix `Failed to load game data files` Error
 
 - You installed PD2 into the wrong folder, you must select your Diablo II: LoD folder in the PD2 installer.
 
-Note: If you don't know where your Diablo II: LoD folder is then right click the Diablo II: LoD shortcut on your desktop and select "Open File location". This is the folder that you need to select inside of the PD2 installer.
+Note: If you don't know where your Diablo II: LoD folder is then right click the Diablo II: LoD shortcut on your desktop and select `Open File location`. This is the folder that you need to select inside of the PD2 installer.
 
 
-# How to fix window resizing when joining a game
+# How to Fix window resizing when joining a game
 
-- [Download ddraw.ini](https://github.com/FunkyFr3sh/MrLlamaSCStreamInfo/releases/download/1/ddraw.ini) and place it into your PD2 folder (replace existing file). Start the launcher and disable `Windowed Mode (-W)`.
+- [Download ddraw.ini](https://github.com/FunkyFr3sh/MrLlamaSCStreamInfo/releases/download/1/ddraw.ini) and place it into your ProjectD2 folder (replace existing file). Start the launcher and disable `Windowed Mode (-W)`.
 
 Note: You can resize your window now by hovering over the window border and drag it. Use `Ctrl+Tab` or `RightAlt+RightCtrl` to unlock your cursor from the window.
 
-# How to fix can't gain experience
+# How to Fix the bug where you can't gain experience
 
 - You must create a ladder character.
 
-# How to Fix c0000005 Error
+# How to Fix `UNHANDLED EXECPTION c0000005` Error
 
 ## Context: You travel to a new Act in-game.
 
