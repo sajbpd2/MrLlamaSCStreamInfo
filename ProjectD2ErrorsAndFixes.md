@@ -125,6 +125,10 @@ Note: You can resize your window now by hovering over the window border and drag
 
 - You must install the Lord of Destruction expansion. If you're sure you have LoD installed then please ask for help on discord and mention `halt #378`.
 
+## Context: Crash in main menu (line #677 / error ****8145)
+
+- Enable the ddraw windowed mode, see [window resizing when joining a game](#how-to-fix-window-resizing-when-joining-a-game)
+
 ## Context: Character creates or joins a game.
 
 - If you are able to create a new character and join a game but cannot join a game with an existing character because your game crashes with a Halt error, your character may have been corrupted somehow. This is not proven, waiting may simply fix it. I would be worried though, especially if it's online.
