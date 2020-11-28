@@ -130,9 +130,13 @@ Note: You can resize your window now by hovering over the window border and drag
 - If creating a new character still gives you a Halt error, then you likely have a bad install.
 	- Be sure your game is a completely fresh install. You cannot copy and paste. You cannot re-use files from a previously modded install. Install Diablo II and then LOD and then PD2 all into the same folder.
 
-# How to Fix `VCRUNTIME140_1.DLL` and `MSVCP140.DLL` and `The Application was unable to start correctly (0xc000007b)` Error
+# How to Fix `VCRUNTIME140_1.DLL` and `MSVCP140.DLL` Error
 
 - You are missing the Redistributable needed. [Click here to download the x64 Redistributable](https://aka.ms/vs/16/release/vc_redist.x64.exe) and then install it.
+
+# How to Fix `The Application was unable to start correctly (0xc000007b)` Error
+
+- You might be missing the Redistributable needed. [Click here to download the x64 Redistributable](https://aka.ms/vs/16/release/vc_redist.x64.exe) and then install it. If it was already installed then select Repair.
 
 # How to Fix Silent Crash Error
 
