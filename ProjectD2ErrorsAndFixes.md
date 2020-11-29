@@ -2,7 +2,7 @@
 
 | [****Issues****](#) |
 | :-: |
-| [d2data.mpq is corrupt](#how-to-fix-d2datampq-is-corrupt-error) |
+| [d2data.mpq is corrupt / Empty OK Cancel box](#how-to-fix-d2datampq-is-corrupt-error) |
 | [UNHANDLED EXCEPTION c0000005](#how-to-fix-unhandled-exception-c0000005-error) |
 | [mouse not working](#how-to-fix-the-bug-where-your-mouse-isnt-working-in-the-main-menu) |
 | [failed to load ProjectDiablo.dll](#how-to-fix-failed-to-load-projectdiablodll-error) |
@@ -26,7 +26,7 @@
 
 &nbsp;
 
-# How to Fix "d2data.mpq is corrupt" Error
+# How to Fix "d2data.mpq is corrupt" and Empty OK Cancel Messagebox Error
 
 Open your ProjectD2 folder and browse to the MPQFixer folder. Run `FIX_MPQS_RUN_AS_ADMIN.bat` as admin and now try to start the game again. If it still doesn't work, try this:
 
@@ -167,6 +167,12 @@ Note: You can resize your window now by hovering over the window border and drag
 &nbsp;
 
 # How to Fix Halt Error
+
+## Context: Game doesn't start (line #378 / error ****5698)
+
+- You must install the Lord of Destruction expansion. If you're sure you have LoD installed then please ask for help on discord and mention `halt #378`.
+
+&nbsp;
 
 ## Context: Game doesn't start (line #378 / error ****5698)
 
