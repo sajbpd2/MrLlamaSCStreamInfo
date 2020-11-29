@@ -182,12 +182,6 @@ Note: Do not move files around manually, make sure you are always using the PD2 
 
 &nbsp;
 
-## Context: Game doesn't start (line #378 / error ****5698)
-
-- You must install the Lord of Destruction expansion. If you're sure you have LoD installed then please ask for help on discord and mention `halt #378`.
-
-&nbsp;
-
 ## Context: Crash in main menu (line #677 / error ****8145)
 
 - Disable `Windowed Mode (-W)` in the launcher and play in fullscreen or alternatively you can also use the ddraw windowed mode instead. To enable the ddraw windowed mode check: [window resizing when joining a game](#how-to-fix-window-resizing-when-joining-a-game) 
