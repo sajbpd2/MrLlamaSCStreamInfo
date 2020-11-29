@@ -2,7 +2,7 @@
 
 | [****Issues****](#) |
 | :-: |
-| [d2data.mpq is corrupt / Empty OK Cancel box](#how-to-fix-d2datampq-is-corrupt-error) |
+| [d2data.mpq is corrupt / Empty OK Cancel box](#how-to-fix-d2datampq-is-corrupt-and-empty-ok-cancel-messagebox-error) |
 | [UNHANDLED EXCEPTION c0000005](#how-to-fix-unhandled-exception-c0000005-error) |
 | [mouse not working](#how-to-fix-the-bug-where-your-mouse-isnt-working-in-the-main-menu) |
 | [failed to load ProjectDiablo.dll](#how-to-fix-failed-to-load-projectdiablodll-error) |
