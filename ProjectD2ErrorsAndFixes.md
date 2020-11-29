@@ -174,6 +174,14 @@ Note: You can resize your window now by hovering over the window border and drag
 
 &nbsp;
 
+## Context: Game doesn't start (line #3533 / error ****b317)
+
+- Some of your original Diablo 2 LoD files are either corrupt or missing. Please reinstall Diablo 2 LoD.
+
+Note: Do not move files around manually, make sure you are always using the PD2 installer to install PD2.
+
+&nbsp;
+
 ## Context: Game doesn't start (line #378 / error ****5698)
 
 - You must install the Lord of Destruction expansion. If you're sure you have LoD installed then please ask for help on discord and mention `halt #378`.
