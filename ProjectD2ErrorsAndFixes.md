@@ -97,7 +97,7 @@ Get the original MPQs from the older installers. Install Diablo 2 using the prov
 
 # How to Fix mouse isn't working in the main menu bug
 
-- Open UI.ini with notepad and set `Minimized=1`
+- Open `UI.ini` inside of your ProjectD2 folder and set `Minimized=1`
 
 &nbsp;
 
