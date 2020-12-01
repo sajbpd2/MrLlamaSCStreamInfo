@@ -4,15 +4,15 @@
 | :-: |
 | [d2data.mpq is corrupt / Empty OK Cancel box](#how-to-fix-d2datampq-is-corrupt-and-empty-ok-cancel-messagebox-error) |
 | [UNHANDLED EXCEPTION c0000005](#how-to-fix-unhandled-exception-c0000005-error) |
-| [mouse not working](#how-to-fix-the-bug-where-your-mouse-isnt-working-in-the-main-menu) |
+| [mouse not working](#how-to-fix-mouse-isnt-working-in-the-main-menu-bug) |
 | [failed to load ProjectDiablo.dll](#how-to-fix-failed-to-load-projectdiablodll-error) |
 | [ultrawide monitor fix](#how-to-fix-the-aspect-ratio-on-ultrawide-monitors) |
 | [failed to load game data files](#how-to-fix-failed-to-load-game-data-files-error) |
 | [window resizing when joining a game](#how-to-fix-window-resizing-when-joining-a-game) |
-| [can't gain experience](#how-to-fix-the-bug-where-you-cant-gain-experience) |
-| [too high mouse sensitivity](#) |
-| [can't teleport in Act 1 Cold Plains](#) |
-| [game minimizing on Alt+Tab](#) |
+| [can't gain experience](#how-to-fix-cant-gain-experience-bug) |
+| [too high mouse sensitivity](#how-to-fix-too-high-mouse-sensitivity) |
+| [can't teleport in Act 1 Cold Plains](#how-to-fix-cant-teleport-in-act-1-cold-plains) |
+| [game minimizing on Alt+Tab](#how-to-fix-game-minimizing-on-alttab) |
 | [launcher closing after clicking on PLAY](#how-to-fix-launcher-closing-after-clicking-on-play) |
 | [Halt](#how-to-fix-halt-error) |
 | [VCRUNTIME140_1.dll / MSVCP140.DLL](#how-to-fix-vcruntime140_1dll-and-msvcp140dll-error) |
