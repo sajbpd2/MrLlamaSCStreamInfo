@@ -10,6 +10,9 @@
 | [failed to load game data files](#how-to-fix-failed-to-load-game-data-files-error) |
 | [window resizing when joining a game](#how-to-fix-window-resizing-when-joining-a-game) |
 | [can't gain experience](#how-to-fix-the-bug-where-you-cant-gain-experience) |
+| [too high mouse sensitivity](#) |
+| [can't teleport in Act 1 Cold Plains](#) |
+| [game minimizing on Alt+Tab](#) |
 | [launcher closing after clicking on PLAY](#how-to-fix-launcher-closing-after-clicking-on-play) |
 | [Halt](#how-to-fix-halt-error) |
 | [VCRUNTIME140_1.dll / MSVCP140.DLL](#how-to-fix-vcruntime140_1dll-and-msvcp140dll-error) |
@@ -41,7 +44,7 @@ Get the original MPQs from the older installers. Install Diablo 2 using the prov
 
 &nbsp;
 
-# How to Fix the bug where your mouse isn't working in the main menu
+# How to Fix mouse isn't working in the main menu bug
 
 - Open UI.ini with notepad and set `Minimized=1`
 
@@ -94,9 +97,33 @@ Note: You can resize your window now by hovering over the window border and drag
 
 &nbsp;
 
-# How to Fix the bug where you can't gain experience
+# How to Fix can't gain experience bug
 
 - You must create a ladder character.
+
+&nbsp;
+
+&nbsp;
+
+# How to Fix too high mouse sensitivity
+
+- Open `ddraw.ini` inside of your ProjectD2 folder and set `adjmouse=true`
+
+&nbsp;
+
+&nbsp;
+
+# How to Fix can't teleport in Act 1 Cold Plains
+
+- This is not a bug, it's a feature!
+
+&nbsp;
+
+&nbsp;
+
+# How to Fix game minimizing on Alt+Tab
+
+- `Alt+Enter` will disable windowed-fullscreen, just press it again to re-enable it.
 
 &nbsp;
 
