@@ -5,7 +5,7 @@
 | [VCRUNTIME140_1.dll / MSVCP140.DLL](#how-to-fix-vcruntime140_1dll-and-msvcp140dll-error) |
 | [failed to load ProjectDiablo.dll](#how-to-fix-failed-to-load-projectdiablodll-error) |
 | [failed to load game data files](#how-to-fix-failed-to-load-game-data-files-error) |
-| [Bugged Launcher](#how-to-fix-bugged-launcher-with-white-background-error) |
+| [Bugged Launcher (White background)](#how-to-fix-bugged-launcher-with-white-background-error) |
 | [UNHANDLED EXCEPTION c0000005](#how-to-fix-unhandled-exception-c0000005-error) |
 | [Halt](#how-to-fix-halt-error) |
 | [Silent Crash](#how-to-fix-silent-crash-error) |
