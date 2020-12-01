@@ -2,25 +2,25 @@
 
 | [****Issues****](#) |
 | :-: |
-| [d2data.mpq is corrupt / Empty OK Cancel box](#how-to-fix-d2datampq-is-corrupt-and-empty-ok-cancel-messagebox-error) |
-| [UNHANDLED EXCEPTION c0000005](#how-to-fix-unhandled-exception-c0000005-error) |
-| [mouse not working](#how-to-fix-mouse-isnt-working-in-the-main-menu-bug) |
+| [VCRUNTIME140_1.dll / MSVCP140.DLL](#how-to-fix-vcruntime140_1dll-and-msvcp140dll-error) |
 | [failed to load ProjectDiablo.dll](#how-to-fix-failed-to-load-projectdiablodll-error) |
-| [ultrawide monitor fix](#how-to-fix-the-aspect-ratio-on-ultrawide-monitors) |
 | [failed to load game data files](#how-to-fix-failed-to-load-game-data-files-error) |
+| [Bugged Launcher](#how-to-fix-bugged-launcher-with-white-background-error) |
+| [UNHANDLED EXCEPTION c0000005](#how-to-fix-unhandled-exception-c0000005-error) |
+| [Halt](#how-to-fix-halt-error) |
+| [Silent Crash](#how-to-fix-silent-crash-error) |
+| [d2data.mpq is corrupt / Empty OK Cancel box](#how-to-fix-d2datampq-is-corrupt-and-empty-ok-cancel-messagebox-error) |
+| [Failed to Join Game](#how-to-fix-failed-to-join-game-error) |
+| [Unable to Connect to Battle.net](#how-to-fix-unable-to-connect-to-battlenet-error) |
 | [window resizing when joining a game](#how-to-fix-window-resizing-when-joining-a-game) |
+| [ultrawide monitor fix](#how-to-fix-the-aspect-ratio-on-ultrawide-monitors) |
 | [can't gain experience](#how-to-fix-cant-gain-experience-bug) |
 | [too high mouse sensitivity](#how-to-fix-too-high-mouse-sensitivity) |
 | [can't teleport in Act 1 Cold Plains](#how-to-fix-cant-teleport-in-act-1-cold-plains) |
 | [game minimizing on Alt+Tab](#how-to-fix-game-minimizing-on-alttab) |
+| [mouse not working](#how-to-fix-mouse-isnt-working-in-the-main-menu-bug) |
 | [launcher closing after clicking on PLAY](#how-to-fix-launcher-closing-after-clicking-on-play) |
-| [Halt](#how-to-fix-halt-error) |
-| [VCRUNTIME140_1.dll / MSVCP140.DLL](#how-to-fix-vcruntime140_1dll-and-msvcp140dll-error) |
 | [unable to start correctly 0xc000007b](#how-to-fix-the-application-was-unable-to-start-correctly-0xc000007b-error) |
-| [Silent Crash](#how-to-fix-silent-crash-error) |
-| [Bugged Launcher](#how-to-fix-bugged-launcher-with-white-background-error) |
-| [Unable to Connect to Battle.net](#how-to-fix-unable-to-connect-to-battlenet-error) |
-| [Failed to Join Game](#how-to-fix-failed-to-join-game-error) |
 | [Cannot Create an Account](#how-to-fix-cannot-create-an-account-error) |
 | [Wrong Password](#how-to-fix-wrong-password-error) |
 | [CD-ROM](#how-to-fix-cd-rom-error) |
