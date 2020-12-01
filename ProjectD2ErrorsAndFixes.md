@@ -88,7 +88,7 @@ Note: If you don't know where your Diablo II: LoD folder is then right click the
 
 &nbsp;
 
-# How to Fix window resizing when joining a game
+# How to Fix window resizing when joining a game bug
 
 - [Download ddraw.ini](https://github.com/FunkyFr3sh/MrLlamaSCStreamInfo/releases/download/1/ddraw.ini) and place it into your ProjectD2 folder (replace existing file). Start the launcher and disable `Windowed Mode (-W)`.
 
@@ -98,7 +98,7 @@ Note: You can resize your window now by hovering over the window border and drag
 
 &nbsp;
 
-# How to Fix this app can't run on your PC
+# How to Fix `This app can't run on your PC` Error
 
 - You're running a 32bit version of windows, PD2 doesn't support 32bit windows currently. Redownload the PD2 installer in a week or two and try again.
 
