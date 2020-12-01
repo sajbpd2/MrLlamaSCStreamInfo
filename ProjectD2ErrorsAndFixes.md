@@ -30,6 +30,56 @@
 
 &nbsp;
 
+# How to Fix `VCRUNTIME140_1.DLL` and `MSVCP140.DLL` Error
+
+- You are missing the Redistributable needed. [Click here to download the x64 Redistributable](https://aka.ms/vs/16/release/vc_redist.x64.exe) and then install it.
+
+&nbsp;
+
+&nbsp;
+
+# How to Fix `Failed to load ProjectDiablo.dll` Error
+
+- You might be missing the x86 Redistributable. [Click here to download the x86 Redistributable](https://aka.ms/vs/16/release/vc_redist.x86.exe), install it and check if the game is working now.
+- If the problem wasn't solved then check your anti-virus and restore the file.
+
+&nbsp;
+
+&nbsp;
+
+# How to Fix `Failed to load game data files` Error
+
+- You installed PD2 into the wrong folder, you must select your Diablo II: LoD folder in the PD2 installer.
+
+Note: If you don't know where your Diablo II: LoD folder is then right click the Diablo II: LoD shortcut on your desktop and select `Open File location`. This is the folder that you need to select inside of the PD2 installer.
+
+&nbsp;
+
+&nbsp;
+
+# How to Fix Bugged Launcher With White Background Error
+
+- Run the Launcher as Administrator.
+
+Note: Do not run the launcher multiple times, you can only have one instance of it running at a time.
+
+&nbsp;
+
+&nbsp;
+
+# How to Fix Silent Crash Error
+
+## Context: Interacting with items, skills, or monsters.
+
+- Diablo 2 must be installed in English. Any other language will cause completely random crashes with items, skills, and monsters.
+	- Link to English [Classic](https://www.blizzard.com/download/confirmation?platform=windows&locale=en_US&product=d2) and [LOD](https://www.blizzard.com/download/confirmation?platform=windows&locale=en_US&product=d2lod) installers. May need to sign in.
+- If English Diablo II, re-install.
+- Hovering over the bottom right of the stash is a known crash bug. No fix. Avoid moving your cursor to the bottom right of the stash.
+
+&nbsp;
+
+&nbsp;
+
 # How to Fix "d2data.mpq is corrupt" and Empty OK Cancel Messagebox Error
 
 Open your ProjectD2 folder and browse to the MPQFixer folder. Run `FIX_MPQS_RUN_AS_ADMIN.bat` as admin and now try to start the game again. If it still doesn't work, try this:
@@ -61,28 +111,9 @@ Get the original MPQs from the older installers. Install Diablo 2 using the prov
 
 &nbsp;
 
-# How to Fix `Failed to load ProjectDiablo.dll` Error
-
-- You might be missing the x86 Redistributable. [Click here to download the x86 Redistributable](https://aka.ms/vs/16/release/vc_redist.x86.exe), install it and check if the game is working now.
-- If the problem wasn't solved then check your anti-virus and restore the file.
-
-&nbsp;
-
-&nbsp;
-
 # How to Fix the aspect ratio on ultrawide monitors
 
 - Open `ddraw.ini` inside of your ProjectD2 folder and set `maintas=true`
-
-&nbsp;
-
-&nbsp;
-
-# How to Fix `Failed to load game data files` Error
-
-- You installed PD2 into the wrong folder, you must select your Diablo II: LoD folder in the PD2 installer.
-
-Note: If you don't know where your Diablo II: LoD folder is then right click the Diablo II: LoD shortcut on your desktop and select `Open File location`. This is the folder that you need to select inside of the PD2 installer.
 
 &nbsp;
 
@@ -236,40 +267,9 @@ Note: Do not move files around manually, make sure you are always using the PD2 
 
 &nbsp;
 
-# How to Fix `VCRUNTIME140_1.DLL` and `MSVCP140.DLL` Error
-
-- You are missing the Redistributable needed. [Click here to download the x64 Redistributable](https://aka.ms/vs/16/release/vc_redist.x64.exe) and then install it.
-
-&nbsp;
-
-&nbsp;
-
 # How to Fix `The Application was unable to start correctly (0xc000007b)` Error
 
 - You might be missing the Redistributable needed. [Click here to download the x64 Redistributable](https://aka.ms/vs/16/release/vc_redist.x64.exe) and then install it. If it was already installed then select Repair.
-
-&nbsp;
-
-&nbsp;
-
-# How to Fix Silent Crash Error
-
-## Context: Interacting with items, skills, or monsters.
-
-- Diablo 2 must be installed in English. Any other language will cause completely random crashes with items, skills, and monsters.
-	- Link to English [Classic](https://www.blizzard.com/download/confirmation?platform=windows&locale=en_US&product=d2) and [LOD](https://www.blizzard.com/download/confirmation?platform=windows&locale=en_US&product=d2lod) installers. May need to sign in.
-- If English Diablo II, re-install.
-- Hovering over the bottom right of the stash is a known crash bug. No fix. Avoid moving your cursor to the bottom right of the stash.
-
-&nbsp;
-
-&nbsp;
-
-# How to Fix Bugged Launcher With White Background Error
-
-- Run the Launcher as Administrator.
-
-Note: Do not run the launcher multiple times, you can only have one instance of it running at a time.
 
 &nbsp;
 
