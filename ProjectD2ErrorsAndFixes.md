@@ -116,7 +116,9 @@ Note: You can resize your window now by hovering over the window border and drag
 
 # How to Fix too high mouse sensitivity
 
-- Open `ddraw.ini` inside of your ProjectD2 folder and set `adjmouse=true`
+- Open `ddraw.ini` inside of your ProjectD2 folder and set `adjmouse=true`.
+
+Note: This fix will only work for fullscreen, if you want to adjust mouse sensitivity in windowed mode you will have to use the ddraw windowed mode instead. To enable the ddraw windowed mode check: [window resizing when joining a game](#how-to-fix-window-resizing-when-joining-a-game-bug) 
 
 &nbsp;
 
@@ -220,7 +222,7 @@ Note: Do not move files around manually, make sure you are always using the PD2 
 
 ## Context: Crash in main menu (line #677 / error ****8145)
 
-- Disable `Windowed Mode (-W)` in the launcher and play in fullscreen or alternatively you can also use the ddraw windowed mode instead. To enable the ddraw windowed mode check: [window resizing when joining a game](#how-to-fix-window-resizing-when-joining-a-game) 
+- Disable `Windowed Mode (-W)` in the launcher and play in fullscreen or alternatively you can also use the ddraw windowed mode instead. To enable the ddraw windowed mode check: [window resizing when joining a game](#how-to-fix-window-resizing-when-joining-a-game-bug) 
 
 &nbsp;
 
