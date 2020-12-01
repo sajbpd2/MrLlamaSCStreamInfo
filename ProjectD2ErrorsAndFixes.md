@@ -13,7 +13,7 @@
 | [Failed to Join Game](#how-to-fix-failed-to-join-game-error) |
 | [Unable to Connect to Battle.net](#how-to-fix-unable-to-connect-to-battlenet-error) |
 | [window resizing when joining a game](#how-to-fix-window-resizing-when-joining-a-game) |
-| [This app can't run on your PC](#) |
+| [This app can't run on your PC](#how-to-fix-this-app-cant-run-on-your-pc) |
 | [ultrawide monitor fix](#how-to-fix-the-aspect-ratio-on-ultrawide-monitors) |
 | [can't gain experience](#how-to-fix-cant-gain-experience-bug) |
 | [too high mouse sensitivity](#how-to-fix-too-high-mouse-sensitivity) |
