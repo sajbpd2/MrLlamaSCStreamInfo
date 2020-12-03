@@ -149,7 +149,7 @@ Note: You can resize your window now by hovering over the window border and drag
 
 - Open `ddraw.ini` inside of your ProjectD2 folder and set `adjmouse=true`.
 
-Note: This fix will only work for fullscreen, if you want to adjust mouse sensitivity in windowed mode you will have to use the ddraw windowed mode instead. To enable the ddraw windowed mode check: [window resizing when joining a game](#how-to-fix-window-resizing-when-joining-a-game-bug) 
+Note: This fix will only work for fullscreen, if you want to adjust the mouse sensitivity in windowed mode you will have to use the ddraw windowed mode instead. To enable the ddraw windowed mode check: [window resizing when joining a game](#how-to-fix-window-resizing-when-joining-a-game-bug) 
 
 &nbsp;
 
