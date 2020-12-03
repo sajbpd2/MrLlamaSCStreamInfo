@@ -157,7 +157,7 @@ Note: This fix will only work for fullscreen, if you want to adjust mouse sensit
 
 # How to Fix can't teleport in Act 1 Cold Plains
 
-- This is not a bug, it's a feature!
+- This is not a bug, it's a feature! You can find more info here: https://projectdiablo2.miraheze.org/wiki/Monsters
 
 &nbsp;
 
