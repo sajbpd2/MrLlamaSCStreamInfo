@@ -294,6 +294,10 @@ Note: Do not move files around manually, make sure you are always using the PD2 
 
 &nbsp;
 
+Note: The server might just be down currently, make sure you check the #announcements channel on discord for more info.
+
+&nbsp;
+
 &nbsp;
 
 # How to Fix `Failed to Join Game` Error
