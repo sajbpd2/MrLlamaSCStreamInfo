@@ -49,9 +49,23 @@
 
 # How to Fix `Failed to load game data files` Error
 
+## Possibility 1: You have installed PD2 in the wrong directory
 - You installed PD2 into the wrong folder, you must select your Diablo II: LoD folder in the PD2 installer.
 
 Note: If you don't know where your Diablo II: LoD folder is then right click the Diablo II: LoD shortcut on your desktop and select `Open File location`. This is the folder that you need to select inside of the PD2 installer.
+
+## Possiblity 2: The WinMPQ script at the end of the installer failed to delete the (attributes) files inside your Diablo II: LoD directory
+- Sometimes, running the script again can fix the problem. It is located inside your installation at ProjectD2/MpqFixer/FIX_MPQS_RUN_AS_ADMIN.bat script (run with Admin if needed)
+
+### Manually deleting the (attributes) files
+1. First, you will need [Ladik Zezula's MPQ Editor](http://www.zezula.net/en/mpq/download.html). Other MPQ editors usually can't open d2sfx.mpq or can't delete the (attributes) files.
+2. Click on the `Open MPQ(s)` icon on the top left of the window.
+3. Navigate to your Diablo II: LoD installation and select `d2data.mpq`, `d2char.mpq` and `d2sfx.mpq`. You can select them all at once by hoding Ctrl and clicking on each one.
+4. Once you click `Open`, a window will popup. Just click `OK`. You will then see the 3 archives on the left side of the window.
+5. Select one of them and then click on `Configure (attributes)` on the top right of the window.
+6. Uncheck everything and click `OK`.
+7. Repeat steps 6 and 7 for the other 2 archives.
+8. Close the MPQ Editor and play the game.
 
 &nbsp;
 
