@@ -82,11 +82,6 @@ Note: Do not run the launcher multiple times, you can only have one instance of 
 
 # How to Fix "d2data.mpq is corrupt" and Empty OK Cancel Messagebox Error
 
-## Possibility 1: You installed PD2 in the wrong directory. You should select the Diablo II: LoD directory when installing PD2.
-If you are unsure, right click on your Diablo II: LoD shortcut and click `Open file location`.
-
-## Possiblity 2: The WinMPQ script at the end of the installer failed to delete the (attributes) files inside your Diablo II: LoD MPQs
-
 ### Solution 1: Rerun the `FIX_MPQS_RUN_AS_ADMIN.bat`
 Open your ProjectD2 folder and browse to the MPQFixer folder. Run `FIX_MPQS_RUN_AS_ADMIN.bat` as admin and now try to start the game again.
 
