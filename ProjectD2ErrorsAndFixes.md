@@ -2,7 +2,7 @@
 
 | [****Issues****](#) |
 | :-: |
-| [Locked for illegal key](#how-to-fix-vcruntime140_1dll-and-msvcp140dll-error) |
+| [Locked for illegal key](#how-to-fix-locked-for-illegal-key-error) |
 | [VCRUNTIME140_1.dll / MSVCP140.DLL](#how-to-fix-vcruntime140_1dll-and-msvcp140dll-error) |
 | [failed to load ProjectDiablo.dll](#how-to-fix-failed-to-load-projectdiablodll-error) |
 | [failed to load game data files](#how-to-fix-failed-to-load-game-data-files-error) |
@@ -33,7 +33,7 @@
 
 # How to Fix `Locked for illegal key` Error
 
-## Context: You have been banned for using a stolen / pirated copy of diablo 2
+You have been banned for using a stolen / pirated copy of diablo 2. To get your account unbanned please do the following:
 
 1. Purchase an official copy of Diablo 2 and Diablo 2 Lord of Destruction from https://www.blizzard.com/
 
