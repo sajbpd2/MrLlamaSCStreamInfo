@@ -2,6 +2,7 @@
 
 | [****Issues****](#) |
 | :-: |
+| [Locked for illegal key](#how-to-fix-vcruntime140_1dll-and-msvcp140dll-error) |
 | [VCRUNTIME140_1.dll / MSVCP140.DLL](#how-to-fix-vcruntime140_1dll-and-msvcp140dll-error) |
 | [failed to load ProjectDiablo.dll](#how-to-fix-failed-to-load-projectdiablodll-error) |
 | [failed to load game data files](#how-to-fix-failed-to-load-game-data-files-error) |
@@ -25,6 +26,22 @@
 | [Cannot Create an Account](#how-to-fix-cannot-create-an-account-error) |
 | [Wrong Password](#how-to-fix-wrong-password-error) |
 | [CD-ROM](#how-to-fix-cd-rom-error) |
+
+&nbsp;
+
+&nbsp;
+
+# How to Fix `Locked for illegal key` Error
+
+## Context: You have been banned for using a stolen / pirated copy of diablo 2
+
+1. Purchase an official copy of Diablo 2 and Diablo 2 Lord of Destruction from https://www.blizzard.com/
+
+2. Reinstall Project Diablo 2 using your legit version of Diablo 2
+
+3. Log in to the server with your legit copy on a new account then message myself or a PD2 Moderator saying you have installed a proper copy and want to appeal your account lock for using a stolen key as well as provide your new account name and the account you wish to have unlocked
+
+4. A Moderator will confirm you and your account will be unbanned in the unban wave that will take place 3 days from now
 
 &nbsp;
 
