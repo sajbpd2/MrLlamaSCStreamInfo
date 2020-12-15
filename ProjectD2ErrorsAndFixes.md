@@ -35,6 +35,8 @@
 
 You have been banned for using a stolen / pirated copy of diablo 2. To get your account unbanned please do the following:
 
+&nbsp;
+
 1. Purchase an official copy of Diablo 2 and Diablo 2 Lord of Destruction from https://www.blizzard.com/
 
 2. Reinstall Project Diablo 2 using your legit version of Diablo 2
