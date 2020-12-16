@@ -297,6 +297,13 @@ Note: Do not move files around manually, make sure you are always using the PD2 
 
 &nbsp;
 
+## Context: Your IP Address could be banned
+
+- Please contact one of the `PD2 Moderators` on discord and tell them your Account name and IP Address. 
+[Google 'what is my ip'](https://www.google.com/search?q=what+is+my+ip)
+
+&nbsp;
+
 Note: The server might just be down currently, make sure you check the `#announcements` channel on discord for more info.
 
 &nbsp;
