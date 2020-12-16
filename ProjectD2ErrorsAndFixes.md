@@ -297,7 +297,7 @@ Note: Do not move files around manually, make sure you are always using the PD2 
 
 &nbsp;
 
-## Context: Your IP Address could be banned
+## Context: Your IP Address might be banned
 
 - Please contact one of the `PD2 Moderators` on discord and tell them your Account name and IP Address. 
 [Google 'what is my ip'](https://www.google.com/search?q=what+is+my+ip)
