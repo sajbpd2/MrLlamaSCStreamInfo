@@ -4,10 +4,6 @@
 | :-: |
 | [Locked for illegal key](#how-to-fix-locked-for-illegal-key-error) |
 | [Crash when pressing ESC](#how-to-fix-crash-when-pressing-esc-bug) |
-| [VCRUNTIME140_1.dll / MSVCP140.DLL](#how-to-fix-vcruntime140_1dll-and-msvcp140dll-error) |
-| [failed to load ProjectDiablo.dll](#how-to-fix-failed-to-load-projectdiablodll-error) |
-| [failed to load game data files](#how-to-fix-failed-to-load-game-data-files-error) |
-| [Bugged Launcher (White background)](#how-to-fix-bugged-launcher-with-white-background-error) |
 | [UNHANDLED EXCEPTION c0000005](#how-to-fix-unhandled-exception-c0000005-error) |
 | [Halt](#how-to-fix-halt-error) |
 | [Silent Crash](#how-to-fix-silent-crash-error) |
@@ -24,6 +20,10 @@
 | [mouse not working](#how-to-fix-mouse-isnt-working-in-the-main-menu-bug) |
 | [launcher closing after clicking on PLAY](#how-to-fix-launcher-closing-after-clicking-on-play) |
 | [unable to start correctly 0xc000007b](#how-to-fix-the-application-was-unable-to-start-correctly-0xc000007b-error) |
+| [VCRUNTIME140_1.dll / MSVCP140.DLL](#how-to-fix-vcruntime140_1dll-and-msvcp140dll-error) |
+| [failed to load ProjectDiablo.dll](#how-to-fix-failed-to-load-projectdiablodll-error) |
+| [failed to load game data files](#how-to-fix-failed-to-load-game-data-files-error) |
+| [Bugged Launcher (White background)](#how-to-fix-bugged-launcher-with-white-background-error) |
 | [Cannot Create an Account](#how-to-fix-cannot-create-an-account-error) |
 | [Wrong Password](#how-to-fix-wrong-password-error) |
 | [CD-ROM](#how-to-fix-cd-rom-error) |
@@ -53,43 +53,6 @@ You have been banned for using a stolen / pirated copy of diablo 2. To get your 
 # How to Fix Crash when pressing ESC bug
 
 - Open the `Settings` menu, go to `StashExport` and uncheck `Export On Meno`
-
-&nbsp;
-
-&nbsp;
-
-# How to Fix `VCRUNTIME140_1.DLL` and `MSVCP140.DLL` Error
-
-- You are missing the Redistributable needed. [Click here to download the x64 Redistributable](https://aka.ms/vs/16/release/vc_redist.x64.exe) and then install it.
-
-&nbsp;
-
-&nbsp;
-
-# How to Fix `Failed to load ProjectDiablo.dll` Error
-
-- You might be missing the x86 Redistributable. [Click here to download the x86 Redistributable](https://aka.ms/vs/16/release/vc_redist.x86.exe), install it and check if the game is working now.
-- If the problem wasn't solved then check your anti-virus and restore the file.
-
-&nbsp;
-
-&nbsp;
-
-# How to Fix `Failed to load game data files` Error
-
-- You installed PD2 into the wrong folder, you must select your Diablo II: LoD folder in the PD2 installer.
-
-Note: If you don't know where your Diablo II: LoD folder is then right click the Diablo II: LoD shortcut on your desktop and select `Open File location`. This is the folder that you need to select inside of the PD2 installer.
-
-&nbsp;
-
-&nbsp;
-
-# How to Fix Bugged Launcher With White Background Error
-
-- Run the Launcher as Administrator.
-
-Note: Do not run the launcher multiple times, you can only have one instance of it running at a time.
 
 &nbsp;
 
@@ -335,6 +298,43 @@ Note: Do not move files around manually, make sure you are always using the PD2 
 &nbsp;
 
 Note: The server might just be down currently, make sure you check the `#announcements` channel on discord for more info.
+
+&nbsp;
+
+&nbsp;
+
+# How to Fix `VCRUNTIME140_1.DLL` and `MSVCP140.DLL` Error
+
+- You are missing the Redistributable needed. [Click here to download the x64 Redistributable](https://aka.ms/vs/16/release/vc_redist.x64.exe) and then install it.
+
+&nbsp;
+
+&nbsp;
+
+# How to Fix `Failed to load ProjectDiablo.dll` Error
+
+- You might be missing the x86 Redistributable. [Click here to download the x86 Redistributable](https://aka.ms/vs/16/release/vc_redist.x86.exe), install it and check if the game is working now.
+- If the problem wasn't solved then check your anti-virus and restore the file.
+
+&nbsp;
+
+&nbsp;
+
+# How to Fix `Failed to load game data files` Error
+
+- You installed PD2 into the wrong folder, you must select your Diablo II: LoD folder in the PD2 installer.
+
+Note: If you don't know where your Diablo II: LoD folder is then right click the Diablo II: LoD shortcut on your desktop and select `Open File location`. This is the folder that you need to select inside of the PD2 installer.
+
+&nbsp;
+
+&nbsp;
+
+# How to Fix Bugged Launcher With White Background Error
+
+- Run the Launcher as Administrator.
+
+Note: Do not run the launcher multiple times, you can only have one instance of it running at a time.
 
 &nbsp;
 
