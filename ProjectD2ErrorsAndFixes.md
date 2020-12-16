@@ -3,7 +3,7 @@
 | [****Issues****](#) |
 | :-: |
 | [Locked for illegal key](#how-to-fix-locked-for-illegal-key-error) |
-| [Crash when pressing ESC](#) |
+| [Crash when pressing ESC](#how-to-fix-crash-when-pressing-esc-bug) |
 | [VCRUNTIME140_1.dll / MSVCP140.DLL](#how-to-fix-vcruntime140_1dll-and-msvcp140dll-error) |
 | [failed to load ProjectDiablo.dll](#how-to-fix-failed-to-load-projectdiablodll-error) |
 | [failed to load game data files](#how-to-fix-failed-to-load-game-data-files-error) |
@@ -52,7 +52,7 @@ You have been banned for using a stolen / pirated copy of diablo 2. To get your 
 
 # How to Fix Crash when pressing ESC bug
 
-- Open the `Settings` menu, go to `Stash` and uncheck `Export On Meno'
+- Open the `Settings` menu, go to `Stash` and uncheck `Export On Meno`
 
 &nbsp;
 
