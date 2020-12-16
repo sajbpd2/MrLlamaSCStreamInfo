@@ -3,6 +3,7 @@
 | [****Issues****](#) |
 | :-: |
 | [Locked for illegal key](#how-to-fix-locked-for-illegal-key-error) |
+| [Crash when pressing ESC](#) |
 | [VCRUNTIME140_1.dll / MSVCP140.DLL](#how-to-fix-vcruntime140_1dll-and-msvcp140dll-error) |
 | [failed to load ProjectDiablo.dll](#how-to-fix-failed-to-load-projectdiablodll-error) |
 | [failed to load game data files](#how-to-fix-failed-to-load-game-data-files-error) |
@@ -44,6 +45,14 @@ You have been banned for using a stolen / pirated copy of diablo 2. To get your 
 3. Log in to the server with your legit copy on a new account then message myself or a PD2 Moderator saying you have installed a proper copy and want to appeal your account lock for using a stolen key as well as provide your new account name and the account you wish to have unlocked
 
 4. A Moderator will confirm you and your account will be unbanned in the unban wave that will take place 3 days from now
+
+&nbsp;
+
+&nbsp;
+
+# How to Fix Crash when pressing ESC bug
+
+- Open the `Settings` menu, go to `Stash` and uncheck `Export On Meno'
 
 &nbsp;
 
