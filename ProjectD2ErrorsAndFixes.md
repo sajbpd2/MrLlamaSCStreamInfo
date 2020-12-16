@@ -52,7 +52,7 @@ You have been banned for using a stolen / pirated copy of diablo 2. To get your 
 
 # How to Fix Crash when pressing ESC bug
 
-- Open the `Settings` menu, go to `Stash` and uncheck `Export On Meno`
+- Open the `Settings` menu, go to `StashExport` and uncheck `Export On Meno`
 
 &nbsp;
 
