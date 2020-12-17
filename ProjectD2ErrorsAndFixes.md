@@ -52,7 +52,7 @@ You have been banned for using a stolen / pirated copy of diablo 2. To get your 
 
 # How to Fix Crash when pressing ESC bug
 
-- Open the `Settings` menu, go to `StashExport` and uncheck `Export On Meno`
+- Open the `Settings` menu, go to `StashExport` and uncheck `Export On Menu`
 
 &nbsp;
 
@@ -65,7 +65,6 @@ You have been banned for using a stolen / pirated copy of diablo 2. To get your 
 - Diablo 2 must be installed in English. Any other language will cause completely random crashes with items, skills, and monsters.
 	- Link to English [Classic](https://www.blizzard.com/download/confirmation?platform=windows&locale=en_US&product=d2) and [LOD](https://www.blizzard.com/download/confirmation?platform=windows&locale=en_US&product=d2lod) installers. May need to sign in.
 - If English Diablo II, re-install.
-- Hovering over the bottom right of the stash is a known crash bug. No fix. Avoid moving your cursor to the bottom right of the stash.
 
 &nbsp;
 
@@ -192,12 +191,6 @@ Note: This fix will only work for fullscreen, if you want to adjust the mouse se
 ## Context: Killed Ventar the Unholy in Baal's fourth wave.
 
 - I have yet to figure out why this happens. Other fixes have not seemed to help this issue. Usually not related to language or locale. Perhaps an issue with non-English Windows? Issue not solved, sorry.
-
-&nbsp;
-
-## Context: Hovered Over Bottom Right of Stash
-
-- No known fix. Just keep your cursor away from bottom right of stash.
 
 &nbsp;
 
