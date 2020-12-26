@@ -15,6 +15,7 @@
 | [ultrawide monitor fix](#how-to-fix-the-aspect-ratio-on-ultrawide-monitors) |
 | [can't gain experience](#how-to-fix-cant-gain-experience-bug) |
 | [too high mouse sensitivity](#how-to-fix-too-high-mouse-sensitivity) |
+| [laggy mouse](#how-to-fix-laggy-mouse-on-budget-laptops-and-older-pcs) |
 | [can't teleport in Act 1 Cold Plains](#how-to-fix-cant-teleport-in-act-1-cold-plains) |
 | [game minimizing on Alt+Tab](#how-to-fix-game-minimizing-on-alttab) |
 | [mouse not working](#how-to-fix-mouse-isnt-working-in-the-main-menu-bug) |
