@@ -121,6 +121,14 @@ Get the original MPQs from the older installers. Install Diablo 2 using the prov
 
 &nbsp;
 
+# How to Fix laggy mouse on budget laptops and older PC's
+
+- [Download ddraw.ini](https://github.com/FunkyFr3sh/MrLlamaSCStreamInfo/releases/download/2/ddraw.ini) and place it into your ProjectD2 folder (replace existing file).
+
+&nbsp;
+
+&nbsp;
+
 # How to Fix window resizing when joining a game bug
 
 - [Download ddraw.ini](https://github.com/FunkyFr3sh/MrLlamaSCStreamInfo/releases/download/1/ddraw.ini) and place it into your ProjectD2 folder (replace existing file). Start the launcher and disable `Windowed Mode (-W)`.
