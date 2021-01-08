@@ -43,9 +43,7 @@ You have been banned for using a stolen / pirated copy of diablo 2. To get your 
 
 2. Reinstall Project Diablo 2 using your legit version of Diablo 2
 
-3. Log in to the server with your legit copy on a new account then message SenpaiSomething or a PD2 Moderator saying you have installed a proper copy and want to appeal your account lock for using a stolen key as well as provide your new account name and the account you wish to have unlocked
-
-4. A Moderator will confirm you and your account will be unbanned in the unban wave that will take place 3 days from now
+Note: If you were caught using pirated or stolen copies of diablo 2 your accounts will be lost even if you purchase a legitimate copy after being banned. 
 
 &nbsp;
 
