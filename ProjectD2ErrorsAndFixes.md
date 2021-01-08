@@ -35,7 +35,7 @@
 
 # How to Fix `Locked for illegal key` Error
 
-You have been banned for using a stolen / pirated copy of diablo 2. To get your account unbanned please do the following:
+You have been banned for using a stolen / pirated copy of diablo 2.
 
 &nbsp;
 
